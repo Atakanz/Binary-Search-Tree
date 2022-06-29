@@ -13,4 +13,9 @@ Kök ilk değer olan 7'dir
 0, diğer tüm değerlerden küçüktür 1'nin soluna yazılmalıdır. [0, 1, 3, 5, 6, 7, 8, 9, 4, 2]
 9, 8'den büyük olduğu için 8in sağına yazılmalıdır. [0, 1, 3, 5, 6, 7, 8, 9, 4, 2]
 4 3'ten büyük (sağda) 5'ten küçük (solunda) olduğuna göre ortalarında olmalıdır. [0, 1, 3, 4, 5, 6, 7, 8, 9, 2]
-2 1'den büyük (sağda) 3'ten küçük (solunda) olduğuna göre ortalarında olmalıdır. [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 2]
+2 1'den büyük (sağda) 3'ten küçük (solunda) olduğuna göre ortalarında olmalıdır. [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+Patika profil linki:
+```
+https://app.patika.dev/atakanzerafet
+```
